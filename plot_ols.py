@@ -17,7 +17,7 @@ of determination are also calculated.
 
 """
 print(__doc__)
-
+#TEST for HW
 
 # Code source: Jaques Grobler
 # License: BSD 3 clause
